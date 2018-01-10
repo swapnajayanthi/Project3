@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80568" started-at="2017-11-04T16:49:28Z" finished-at="2017-11-04T16:50:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80568" started-at="2017-11-04T16:49:28Z" finished-at="2017-11-04T16:50:48Z">
+      <class name="com.jayanthi.testng.TestNgDemoOne">
+        <test-method status="PASS" signature="browseropen()[pri:0, instance:com.jayanthi.testng.TestNgDemoOne@1b604f19]" name="browseropen" is-config="true" duration-ms="12629" started-at="2017-11-04T22:19:15Z" finished-at="2017-11-04T22:19:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method status="PASS" signature="main()[pri:0, instance:com.jayanthi.testng.TestNgDemoOne@1b604f19]" name="main" duration-ms="80520" started-at="2017-11-04T22:19:28Z" finished-at="2017-11-04T22:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.jayanthi.testng.TestNgDemoOne@1b604f19]" name="closeBrowser" is-config="true" duration-ms="1937" started-at="2017-11-04T22:20:49Z" finished-at="2017-11-04T22:20:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.jayanthi.testng.TestNgDemoOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
